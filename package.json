@@ -1,0 +1,13 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "ardustri io project",
+  "main": "index.js",
+  "repository": "https://github.com/ardustri/io",
+  "author": "ardustri core",
+  "license": "LGPL",
+  "private": true,
+  "dependencies": {
+    "jake": "^10.8.2"
+  }
+}
