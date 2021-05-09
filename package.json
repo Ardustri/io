@@ -8,6 +8,9 @@
   "license": "LGPL",
   "private": true,
   "dependencies": {
-    "jake": "^10.8.2"
+    "jake": "^10.8.2",
+    "socket.io": "^4.0.2",
+    "validator": "^13.6.0",
+    "ws": "^7.4.5"
   }
 }
