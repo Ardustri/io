@@ -1,1 +1,1 @@
-<h1>Ardustri I/<pub>O</pub></h1>
+<h1>Ardustri I/<pre>0</pre></h1>
